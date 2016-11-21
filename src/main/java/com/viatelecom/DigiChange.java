@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.IntStream;
 
-public class Test {
+public class DigiChange {
 
 	private static final Map<Integer, String> map;
 	static {
